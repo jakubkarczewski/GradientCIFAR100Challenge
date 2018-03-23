@@ -1,2 +1,5 @@
 # GradientCIFAR100Challenge
-Gradient's CIFAR100 Challenge Utils
+
+Notebooks used for preparation and presentation of internal Kaggle competition for Gradient Student's Research Org.
+
+http://gradient.eti.pg.gda.pl/
